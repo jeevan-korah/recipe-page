@@ -1,7 +1,7 @@
 # Recipe Book
 
 Welcome to the Recipe Book! This static website is a minimalistic yet delightful space dedicated to the art of making a perfect omelette.
-Website: https://jeevan-korah.github.io/recipe-page/
+https://jeevan-korah.github.io/recipe-page/
 
 ## Features
 - **Single Recipe Focus**: Dive straight into the Simple Omelette Recipe without any distractions.
